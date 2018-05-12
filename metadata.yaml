@@ -1,0 +1,32 @@
+_repo: Excursions-and-PoemsThe-Writings-of-Henry-David-Thoreau-Volume-V--of-20-_42553
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thoreau, Henry David
+    alias: Thoreau, Henry D. (Henry David)
+    birthdate: 1817
+    deathdate: 1862
+    gutenberg_agent_id: '54'
+    url: http://www.gutenberg.org/2009/agents/54
+    wikipedia: http://en.wikipedia.org/wiki/Henry_David_Thoreau
+description: ''
+gutenberg_issued: '2013-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42553'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry'
+- !lcsh 'Natural history -- Outdoor books'
+- !lcsh 'Greek poetry -- Translations into English'
+- !lcsh 'Thoreau, Henry David, 1817-1862 -- Travel -- Québec (Province)'
+- !lcc 'PS'
+title: "Excursions, and Poems\r\nThe Writings of Henry David Thoreau, Volume 05 (of\
+  \ 20)"
+url: http://www.gutenberg.org/ebooks/42553
